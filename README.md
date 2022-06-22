@@ -1,7 +1,7 @@
 # 
 A PyTorch implementation of GDSRec for Ranking Task
 
-1. Preprocess dataset. Two pkl files named dataset and list should be generated in the respective folders of the dataset.
+1. Preprocess dataset.
 ```bash
 python preprocess.py
 ```
