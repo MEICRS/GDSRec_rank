@@ -15,7 +15,7 @@ config = {
     'embed_size': 64,
     'batch_size': 128,
     'layers': [256,128,128,64,64],
-    'epoch': 450,
+    'epoch': 20,
     'lr': 0.0005,  # 0.01, 0.001, 0.0001
     'lr_dc': 0.1,  # learning rate decay
     'lr_dc_step': 100,  # the number steps for decay
