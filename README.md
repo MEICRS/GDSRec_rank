@@ -16,4 +16,4 @@ python main.py --test=False
 python main.py --test=True
 ```
 
-The hyper-parameter "cut_off" in ratingt_data.py corresponds to the parameter "F" in the papaer. It controls the threshold of rating for splitting the data.
+The hyper-parameter "cut_off" in ratingt_data.py corresponds to the parameter "F" in the paper. It controls the threshold of rating for splitting the data.
